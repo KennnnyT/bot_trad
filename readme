@@ -1,0 +1,2 @@
+Ce code crée un bot de trading qui surveille en permanence le prix du BTC 
+sur Binance et qui achète ou vend du BTC en fonction de seuils de prix prédéfinis.
